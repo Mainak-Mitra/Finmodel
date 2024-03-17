@@ -78,8 +78,6 @@ years = 5  # Number of years for the IPO model
 ipo_model = fm.IPOModel(initial_valuation, funds_raised, operating_income, growth_rate, years)
 ipo_model.print_summary()
 ```
-fdgdgjahid
-#### Contributors
-Tamilselvan Arjunan
+
 #### License
 This project is licensed under the MIT License - see the LICENSE file for details.
